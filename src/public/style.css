@@ -634,6 +634,18 @@ video {
   float: left;
 }
 
+.clear-start {
+  clear: inline-start;
+}
+
+.clear-left {
+  clear: left;
+}
+
+.clear-right {
+  clear: right;
+}
+
 .m-13 {
   margin: 3.25rem;
 }
@@ -756,6 +768,14 @@ video {
   width: 2.5rem;
 }
 
+.w-2 {
+  width: 0.5rem;
+}
+
+.w-28 {
+  width: 7rem;
+}
+
 .max-w-lg {
   max-width: 32rem;
 }
@@ -767,6 +787,18 @@ video {
 
 .max-w-md {
   max-width: 28rem;
+}
+
+.max-w-6 {
+  max-width: 1.5rem;
+}
+
+.max-w-6xl {
+  max-width: 72rem;
+}
+
+.max-w-3xl {
+  max-width: 48rem;
 }
 
 .-translate-x-1\/2 {
